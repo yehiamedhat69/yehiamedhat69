@@ -166,8 +166,10 @@
 * 🏗️ Object-Oriented Programming
 * 📊 Design & Analysis of Algorithms
 * 🗄️ Database Management Systems
+* 🌐 Computer Networks
 * 🎨 Computer Graphics
 * 💻 Software Development
+* 🔌 REST APIs
 
 ---
 
@@ -303,32 +305,24 @@ Virtual Reality applications using Unity.
 ⚛️ React.js <br>
 ⚙️ Node.js & Express.js <br>
 🍃 MongoDB <br>
-🔐 Cyber Security <br>
-☁️ Cloud Technologies
 
 </p>
 
 ---
-
 
 <!-- ===================== INTERESTS ===================== -->
 
 <h2>💡 My Interests</h2>
 
 <p align="center">
-
 🤖 Artificial Intelligence   •  
 🧠 Machine Learning   •  
 🔥 Deep Learning
-
 <br><br>
-
 👁️ Computer Vision   •  
-🌐 Full Stack Development   •  
-
+🌐 Full Stack Development   
 <br><br>
-
-🎨 Computer Graphics   •  
+🎨 Computer Graphics   
 
 </p>
 
